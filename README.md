@@ -13,4 +13,4 @@ CustomizedActionSheet is using UIPresentationController that allows modals to be
 
 <li>on iPad device</li>
 <img src="Gif/2.png" width="400" height="600"> 
-<img src="Gif/1.gif" width="400" height="600">
+<img src="Gif/2.gif" width="400" height="600">
